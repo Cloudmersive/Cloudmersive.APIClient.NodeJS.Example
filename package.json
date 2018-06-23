@@ -1,0 +1,12 @@
+{
+  "name": "cloudmersive.apiclient.node-js.example",
+  "version": "0.0.0",
+  "description": "Cloudmersive.APIClient.NodeJS.Example",
+  "main": "server.js",
+  "author": {
+    "name": "Andrew"
+  },
+  "dependencies": {
+    "cloudmersive-validate-api-client": "^1.0.8"
+  }
+}
